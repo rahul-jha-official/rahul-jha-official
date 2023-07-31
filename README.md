@@ -2,7 +2,7 @@
 
 <h1 align='center'>Hi 👋, I'm Rahul Jha</h1>
 <h3 align='center'>Currently Working As SDE-1 @<a href='https://www.shipbob.com/about/'>ShipBob</a> | Ex-<a href='https://www.tcs.com/who-we-are'>TCS</a>er</h3>
-</br></br>
+</br>
 
 
 ## 🚀 About Me
