@@ -23,4 +23,7 @@ Rani Laxmibai Public School, Jhansi [ 2015 ] </br>
 - **Microsoft Certified: Azure Developer Associate** <a href='https://www.credly.com/badges/acc12519-9ad6-4b69-ae23-dc7f440aa3b0/public_url'>🔗</a></br>
 - **Microsoft Certified: Azure Data Fundamentals** <a href='https://www.credly.com/badges/706aaeb7-088c-4b71-b0c4-8fc34087bf8b/public_url'>🔗</a></br>
 
-
+## 🏆Awards and Recognition
+- **On The Spot Award** <a href='https://drive.google.com/file/d/1Ei0RyDVKL1utvp6d5TAcPNW0gw7Slnnk/view'>🔗</a></br>
+- **Continuous Feedback Star** <a href='https://drive.google.com/file/d/1Ea9hn-Dff4ww1wYLNYKyX5O7UKekzB8J/view'>🔗</a></br>
+- **Best Team Award** <a href='https://drive.google.com/file/d/1E_8JZSycAEB8auvo_zfzNH1ziUQKyPim/view?usp=sharing'>🔗</a></br>
