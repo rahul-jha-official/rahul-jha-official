@@ -1,7 +1,7 @@
 <p align="center"> <img width='180px' height='180px' title='Rahul Jha' src='https://github.com/rahul-jha-official/rahul-jha-official/assets/138975150/de7348d4-4b31-4537-a8e4-eebfa88eac8f'> </p>
 
 <h1 align='center'>Hi 👋, I'm Rahul Jha</h1>
-<h3 align='center'>Currently Working As SDE-1 @<a href='https://www.shipbob.com/about/'>ShipBob</a> | Ex-<a href='https://www.tcs.com/who-we-are'>TCS</a>er</h3>
+<h3 align='center'>Currently Working As SDE-II @<a href='https://www.shipbob.com/about/'>ShipBob</a> | Ex-<a href='https://www.tcs.com/who-we-are'>TCS</a>er</h3>
 </br>
 
 
