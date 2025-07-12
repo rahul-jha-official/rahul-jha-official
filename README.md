@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - A Passionate Software Developer & Competitive Programmer.
-- A Software Developer graduated from Rajiv Gandhi Proudyogoki Vishwavidyalaya and having overall 2 years of extensive experience in developing state-of-art software module for Tata Consultancy Service.
+- A Software Developer graduated from Oriental College of Technology and having overall 4.5 years of extensive experience in developing state-of-art software module for Tata Consultancy Service.
 - Having good knowledge of of commercial and open souce libraries/databases enginnering tool, design technique & security standards. Experties in finding a better and useful solution in limited time.
 
 ## 🏫 Education
