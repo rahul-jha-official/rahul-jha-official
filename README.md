@@ -4,7 +4,6 @@
 <h3 align='center'>Currently Working As SDE-II @<a href='https://www.shipbob.com/about/'>ShipBob</a> | Ex-<a href='https://www.tcs.com/who-we-are'>TCSer</a>er</h3>
 </br>
 
-
 ## 🚀 About Me
 - A Passionate Software Developer & Competitive Programmer.
 - A Software Developer graduated from Oriental College of Technology and having overall 4.5 years of extensive experience in developing state-of-art software module for Tata Consultancy Service.
